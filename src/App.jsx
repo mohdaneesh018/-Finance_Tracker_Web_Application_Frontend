@@ -8,7 +8,7 @@ import VerifyOtp from "./pages/VerifyOtp";
 import Home from "./pages/Home";
 import Profile from "./pages/Profile";
 import PrivateRoute from "./routes/PrivateRoute";
-import ChangePassword from "./pages/changePassword";
+import ChangePassword from "./pages/ChangePassword";
 
 const App = () => {
   return (
